@@ -4,7 +4,7 @@
 #====== Bioscope World Cup ============
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-https://m3u8-proxy.diptom3ow.workers.dev/?m3u8=bioscope_ong
+http://exp.sm-monirul.top/ultra_restream/bioscope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
@@ -17,15 +17,20 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
 
+#EXTINF:-1 tvg-id="bingeplus" tvg-name="Binge+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" group-title="World_Cup",Binge++
+http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
+#EXTINF:-1 tvg-id="bingeplus" tvg-name="Binge+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" group-title="World_Cup",Binge+
 
 
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="112 BTV" tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="Bangladeshi TV",BTv
+http://exp.sm-monirul.top/ultra_restream/btv/index.m3u8
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="112 T SPORTS" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/t-sports-hd-bd.png" group-title="Sports",T-sports-hd
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="112 Somay News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaoe32xECUYsRui0O-n8NJ8TiBgbsR_LoVQ&s" group-title="BD NEWS",Somoy TV
+http://exp.sm-monirul.top/ultra_restream/somoy_tv/index.m3u8
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/T_Sports.png"  group-title="World_Cup",T Sports BDIX
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
