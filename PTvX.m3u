@@ -220,9 +220,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Uncategorized",SONY ENTERTAINMENT TELEVISION HD VIP
 https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
-#EXTINF:-1 tvg-id="zee_anmol" tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Toffee",Zee Anmol
+#EXTINF:-1 tvg-id="zee_anmol" tvg-name="Zee Anmol" tvg-logo="" group-title="Toffee",Zee Anmol
 https://sm-monirul.top/toffee/play/zee_anmol.m3u8
-#EXTINF:-1 tvg-id="zing_sd" tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Toffee",Zing
+#EXTINF:-1 tvg-id="zing_sd" tvg-name="Zing" tvg-logo="" group-title="Toffee",Zing
 https://sm-monirul.top/toffee/play/zing_sd.m3u8
 #EXTINF:-1 tvg-id="sonysab_hd" tvg-name="SONY SAB HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee",SONY SAB HD VIP
 https://sm-monirul.top/toffee/play/sonysab_hd.m3u8
@@ -236,10 +236,10 @@ https://sm-monirul.top/toffee/play/zee_tv_hd.m3u8
 
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee",SONY MAX HD VIP
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
-#EXTINF:-1 tvg-id="zee_bollywood" tvg-name="Zee Bollywood" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="Toffee",Zee Bollywood
+#EXTINF:-1 tvg-id="zee_bollywood" tvg-name="Zee Bollywood" tvg-logo="" group-title="Toffee",Zee Bollywood
 https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
 
-#EXTINF:-1 tvg-id="zee_action" tvg-name="Zee Action" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="Toffee",Zee Action
+#EXTINF:-1 tvg-id="zee_action" tvg-name="Zee Action" tvg-logo="" group-title="Toffee",Zee Action
 https://sm-monirul.top/toffee/play/zee_action.m3u8
 
 #EXTINF:-1 tvg-id="sony_max" tvg-name="SONY MAX VIP" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee",SONY MAX VIP
