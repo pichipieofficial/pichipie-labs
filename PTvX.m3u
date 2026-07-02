@@ -3,12 +3,6 @@
 
 #====== World Cup ============
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png",Bioscope
-http://sm-monirul.top/fifa/bioscope/index.m3u8
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", Bioscope Live for FIFA World Cup
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-
 #EXTINF:-1 tvg-id="iscreenhd" tvg-name="I SCREEN HD" tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" group-title="World_Cup",I SCREEN HD
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
@@ -41,10 +35,7 @@ https://cdn-tt.pages.dev/ch3.m3u8
 https://cdn-tt.pages.dev/ch4.m3u8
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", Fox Sports for FIFA Wards Cup
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", Dsports for FIFA Wards Cup
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 
 
 
