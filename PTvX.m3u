@@ -26,14 +26,8 @@ http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="T SPORTS" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/t-sports-hd-bd.png" group-title="Sports",T Sports HD
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TOFFEE-🇧🇩-3ᶠᴴᴰ" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="",TOFFEE 1
-https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TOFFEE-🇧🇩-1ᶠᴴᴰ" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="",TOFFEE 2
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TOFFEE-🇧🇩-2ᶠᴴᴰ" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="", TOFFEE 3
-https://cdn-tt.pages.dev/ch3.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TOFFEE-🇧🇩-4ᶠᴴᴰ" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="",TOFFEE 4
-https://cdn-tt.pages.dev/ch4.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1783824767~Starts=1783817567~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOTQ2YmNmNTQtZTAxZC00NjkzLThiYTQtMzExMTRiZjQxMjJmIn0~Signature=z6FBUeHC9G-vzU9MAyUUcYi9KThNMyPfJbcTFAbMxXFspV2kpOXVQZaB7wmZw8IDlEhfpI-jfMU0mG0RRsdbDA
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
