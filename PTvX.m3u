@@ -19,10 +19,6 @@ http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="T SPORTS" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/t-sports-hd-bd.png" group-title="Sports",T Sports HD
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 
-https://sm-monirul.top/fifa/play/toffee1.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee Backup
-http://monirul.bro.bd/sm/play.php?id=toffee1
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" tvg-chno="tspost_live" group-title="", T sports
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
