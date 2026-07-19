@@ -2,6 +2,15 @@
 
 
 #====== World Cup ============
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Bioscope+ 🇧🇩
+https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 1
+https://tfxo0gr4uqmtt8y41hcjugwzdkpjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel16/playlist.m3u8
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 2
+https://live1.streambylivepulse.com/live/channel5/playlist.m3u8
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 3
+https://pull.niues.live/live/stream-9912060_lhd.m3u8
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://103.151.61.12/tv.bdixbd.net/video.m3u8
 
@@ -66,6 +75,53 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 #EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" tvg-name="T-Sports [2]" group-title="SPORTS",T-Sports [2]
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA fast 1
+#EXTGRP:FIFA 2026
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+#EXTINF:-1 tvg-name="DUFA" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" tvg-country="japanese" tvg-language="japanese" group-title="FIFA 2026",fifa fast 2
+#EXTGRP:FIFA 2026
+https://live1.streambylivepulse.com/live/channel11/playlist.m3u8?wsSecret=7f0a25a8802eae5c52f8060aa069a229&wsABSTime=1784189115
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",fifa fast 3
+#EXTGRP:FIFA 2026
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",fifa fast 4
+#EXTGRP:FIFA 2026
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784058504-0-0-6b3982f21a32328bef626bb876558e34
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",fifa fast 5
+#EXTGRP:FIFA 2026
+https://live2.streambylivepulse.com/live/channel15.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA 6
+#EXTGRP:FIFA 2026
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784471176-0-0-4dfbd2a3aa93387c131aee1291edce29
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA 7
+#EXTGRP:FIFA 2026
+https://live1.streambylivepulse.com/live/channel11/playlist.m3u8?wsSecret=6bbfb448aec74f31cce49506899c6377&wsABSTime=1784098455
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA 8
+#EXTGRP:FIFA 2026
+https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001784145866-0-0-b58bbd222d54ef7d15403045c51773b0
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA 9
+#EXTGRP:FIFA 2026
+https://tfxl0gr3uomttgr31hct1gczdgp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=03b12e930792ea60b33bab6de3a9822d&wsABSTime=1784188310&wsSession=b0906660d8e08c893335138e-178414511086205&wsIPSercert=d125dfc8cc993c0e0dc7a17698c8442c&wsBindIP=2&wsserid=1177046549500337104
+#EXTINF:-1 group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",FIFA 10
+#EXTGRP:FIFA 2026
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784145564-0-0-d2ae2b754e8377641a6d36ff7f3ede38
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="FIFA 2026",FIFA 11
+#EXTGRP:FIFA 2026
+https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=3d66a21f852f258bcc8ea4824f0d758c&wsABSTime=1784189031
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://iptv.deltainfonet.com/assets/images/FIFA%2020261782323894.png",FiFa World Cup
+https://pull.niues.live/live/stream-9912060_lhd.m3u8
+#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/Xq7Hqv66/T-Sports-logo-svg.webp",Tsports HD
+https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
+http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
+http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 1
+http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports 2
+http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 
 
 
