@@ -4,6 +4,42 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png" group-title="PichiPie Sports",Bioscope+ 🇧🇩
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="PichiPie Sports",BTV
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/t-sports-hd-bd.png" group-title="PichiPie Sports",BTv HD
+http://103.209.196.22:84/feed1001/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PichiPie Sports",Tsport HD
+http://103.151.61.12/tv.bdixbd.net/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",T sports for Our App
+http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",Somoy TV
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",T Sports HD
+http://103.165.93.31:8095/tsports/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="PichiPie Sports",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",T-Sports [2]
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",beIN SPORTS 1 Max Arabia for FIFA World Cup
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",beIN SPORTS 1 for FIFA World Cup
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="PichiPie Sports",Fifa fast 4
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784058504-0-0-6b3982f21a32328bef626bb876558e34
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png" group-title="PichiPie Sports",Server 1
 https://tfxo0gr4uqmtt8y41hcjugwzdkpjpptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel16/playlist.m3u8
 
@@ -13,17 +49,11 @@ https://live1.streambylivepulse.com/live/channel5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png" group-title="PichiPie Sports",Server 3
 https://pull.niues.live/live/stream-9912060_lhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PichiPie Sports",Football World Cup
-http://103.151.61.12/tv.bdixbd.net/video.m3u8
-
 #EXTINF:-1 group-title="PichiPie Sports",unt-s Sports HD
 http://103.165.93.31:8095/unt-s/video.m3u8
 
 #EXTINF:-1 group-title="PichiPie Sports",PTV Sports HD
 http://103.165.93.31:8095/Fifa-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="PichiPie Sports",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",Soco Live for FIFA World Cup - Fast Server
 https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784473165-0-0-d7c2407395589203c49f7a0674c7e093
@@ -33,15 +63,6 @@ https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",Somoy TV for FIFA World Cup
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",T sports for Our App
-http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",beIN SPORTS 1 Max Arabia for FIFA World Cup
-https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" group-title="PichiPie Sports",beIN SPORTS 1 for FIFA World Cup
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" group-title="PichiPie Sports",Somoy TV
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
@@ -58,21 +79,6 @@ http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PichiPie Sports",Football World Cup
 http://198.195.239.50:8095/somoyTv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/t-sports-hd-bd.png" group-title="PichiPie Sports",T Sports HD
-http://103.209.196.22:84/feed1001/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",Somoy TV
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",T Sports HD
-http://103.165.93.31:8095/tsports/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",Bein Sports 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/Egku0" group-title="PichiPie Sports",T-Sports [2]
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="PichiPie Sports",FIFA fast 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
 
@@ -81,9 +87,6 @@ https://live1.streambylivepulse.com/live/channel11/playlist.m3u8?wsSecret=7f0a25
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="PichiPie Sports",Fifa fast 3
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="PichiPie Sports",Fifa fast 4
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784058504-0-0-6b3982f21a32328bef626bb876558e34
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png" group-title="PichiPie Sports",Fifa fast 5
 https://live2.streambylivepulse.com/live/channel15.m3u8
@@ -108,9 +111,6 @@ https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=3d66a21
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq7Hqv66/T-Sports-logo-svg.webp" group-title="PichiPie Sports",Tsports HD
 https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="PichiPie Sports",T Sports HD
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="PichiPie Sports",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
